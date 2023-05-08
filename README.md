@@ -22,13 +22,13 @@ Developed by: JANARTHANAN V K
 RegisterNumber:  212222230051
 */
 ```
-  def newton_number(number,number_iters=100):
-      a=float(number)
-      for i in range(number_iters):
-          number=0.5*(number+a/number)
-      return number
-  a=int(input())
-  print("Square root of the number:",newton_number(a))
+    def newton_number(number,number_iters=100):
+        a=float(number)
+        for i in range(number_iters):
+            number=0.5*(number+a/number)
+        return number
+    a=int(input())
+    print("Square root of the number:",newton_number(a))
 
 ## Output:
 ![gcd of two number](gcd.png)
