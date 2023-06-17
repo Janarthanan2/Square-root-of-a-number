@@ -31,7 +31,6 @@ RegisterNumber:  212222230051
     print("Square root of the number:",newton_number(a))
 
 ## Output:
-![gcd of two number](gcd.png)
 ![2b](https://user-images.githubusercontent.com/119393515/236849557-fe8c02f3-c06c-4b64-9d72-f3bf3e021505.png)
 
 
